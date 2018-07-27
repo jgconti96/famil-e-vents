@@ -1,0 +1,3 @@
+rootProject.name = 'famil_e_vents'
+
+include ':app'
